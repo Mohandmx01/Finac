@@ -1,7 +1,7 @@
 # Finac
 Financial Statement Classification
 Overview
-This project is part of the selection process for the Data Science Internship (2024). The objective is to classify tables from financial statements into the following categories:
+The objective is to classify tables from financial statements into the following categories:
 
 Income Statements
 Balance Sheets
